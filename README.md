@@ -1,5 +1,3 @@
-# CS-255-SystemAnalysisAndDesign
-
 # Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
 DriverPass is a hypothetical startup company that wants to help people pass their DMV driver’s tests. DriverPass wants a new system that will help students learn driver knowledge and skills. The system will offer online classes, online practice tests, and appointments for driving lessons.
 
